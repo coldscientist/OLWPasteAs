@@ -27,7 +27,7 @@ Here are some preview screenshots:
 
 It is worth mentioning that **64-bit Notepad++ does not support Plugin Manager and NPPExport**.
 
-# Building
+# Building the code
 
 Building the code with Visual Studio or MSBuild will produce a DLL called `WLWPasteAs.dll`.
 
